@@ -1,0 +1,13 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+# Knowledge base (each user builds their own)
+knowledge-base/
+
+# Generated output
+output/*.html
+
+# Python
+__pycache__/
+*.pyc
